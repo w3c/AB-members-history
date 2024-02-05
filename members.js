@@ -41,8 +41,8 @@ let years = maxYear - firstYear + 1;
 list.style.setProperty("--years", years);
 
 let theadRow = $$("thead tr", list)[0];
-for (let i = 1; i <= years; i++) {
-	theadRow.insertAdjacentHTML("beforeend", `<th>${2000 + i}</th>`);
+for (let i = 0; i < years; i++) {
+	theadRow.insertAdjacentHTML("beforeend", `<th>${firstYear + i}</th>`);
 }
 
 $$("td.terms", list).forEach(th => th.colSpan = years);
