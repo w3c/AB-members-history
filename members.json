@@ -10,8 +10,14 @@
 			},
 			{
 				"start": "1999-07-05",
-				"end": "2001-07-05",
+				"end": "2001-05-21",
 				"type": "elected",
+				"affiliation": "Sun Microsystems"
+			},
+			{
+				"start": "2001-05-21",
+				"end": "2003-07-05",
+				"type": "auto-elected",
 				"affiliation": "Sun Microsystems"
 			}
 		]
@@ -40,8 +46,14 @@
 			},
 			{
 				"start": "1999-07-05",
-				"end": "2001-07-05",
+				"end": "2001-05-21",
 				"type": "elected",
+				"affiliation": "Nokia"
+			},
+			{
+				"start": "2001-05-21",
+				"end": "2003-07-05",
+				"type": "auto-elected",
 				"affiliation": "Nokia"
 			}
 		]
@@ -130,8 +142,14 @@
 		"term": [
 			{
 				"start": "1999-07-05",
-				"end": "2001-07-05",
+				"end": "2001-05-21",
 				"type": "elected",
+				"affiliation": "The Boeing Company"
+			},
+			{
+				"start": "2001-05-21",
+				"end": "2003-07-05",
+				"type": "auto-elected",
 				"affiliation": "The Boeing Company"
 			}
 		]
@@ -169,6 +187,30 @@
 				"end": "2002-07-10",
 				"type": "elected",
 				"affiliation": "Microsoft"
+			}
+		]
+	},
+
+	{
+		"name": "David Fallside",
+		"term": [
+			{
+				"start": "2001-05-21",
+				"end": "2003-07-05",
+				"type": "auto-elected",
+				"affiliation": "IBM"
+			}
+		]
+	},
+
+	{
+		"name": "Ken Laskey",
+		"term": [
+			{
+				"start": "2001-05-21",
+				"end": "2003-07-05",
+				"type": "auto-elected",
+				"affiliation": "SAIC - Telcordia Technologies"
 			}
 		]
 	}
