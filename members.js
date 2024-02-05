@@ -1,7 +1,7 @@
 let response = await fetch("members.json");
 let members = await response.json();
 let list = membersList;
-let maxYear = 2001;
+let maxYear = 1998;
 let html = "";
 let dateFormat = new Intl.DateTimeFormat("en-US", {dateStyle: "medium"});
 
