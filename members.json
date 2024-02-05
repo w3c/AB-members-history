@@ -7,6 +7,12 @@
 				"end": "1999-07-05",
 				"type": "elected",
 				"affiliation": ""
+			},
+			{
+				"start": "1999-07-05",
+				"end": "2001-07-05",
+				"type": "elected",
+				"affiliation": "Sun Microsystems"
 			}
 		]
 	},
@@ -31,6 +37,12 @@
 				"end": "1999-07-05",
 				"type": "elected",
 				"affiliation": "Nokia"
+			},
+			{
+				"start": "1999-07-05",
+				"end": "2001-07-05",
+				"type": "elected",
+				"affiliation": "Nokia"
 			}
 		]
 	},
@@ -41,6 +53,12 @@
 			{
 				"start": "1998-02-27",
 				"end": "1999-07-05",
+				"type": "elected",
+				"affiliation": "IBM"
+			},
+			{
+				"start": "1999-07-05",
+				"end": "2001-07-05",
 				"type": "elected",
 				"affiliation": "IBM"
 			}
@@ -64,7 +82,7 @@
 		"term": [
 			{
 				"start": "1998-02-27",
-				"end": "1999-07-05",
+				"end": "2000-07-10",
 				"type": "elected",
 				"affiliation": "ArborText"
 			}
@@ -76,7 +94,7 @@
 		"term": [
 			{
 				"start": "1998-02-27",
-				"end": "1999-07-05",
+				"end": "2000-07-10",
 				"type": "elected",
 				"affiliation": "Xerox"
 			}
@@ -88,7 +106,7 @@
 		"term": [
 			{
 				"start": "1998-02-27",
-				"end": "1999-07-05",
+				"end": "2000-07-10",
 				"type": "elected",
 				"affiliation": "MITRE"
 			}
@@ -100,7 +118,55 @@
 		"term": [
 			{
 				"start": "1998-02-27",
-				"end": "1999-07-05",
+				"end": "2000-07-10",
+				"type": "elected",
+				"affiliation": "Microsoft"
+			}
+		]
+	},
+
+	{
+		"name": "Ann Bassetti",
+		"term": [
+			{
+				"start": "1999-07-05",
+				"end": "2001-07-05",
+				"type": "elected",
+				"affiliation": "The Boeing Company"
+			}
+		]
+	},
+
+	{
+		"name": "Renato Iannella",
+		"term": [
+			{
+				"start": "1999-07-05",
+				"end": "2001-07-05",
+				"type": "elected",
+				"affiliation": "DSTC"
+			}
+		]
+	},
+
+	{
+		"name": "Håkon Lie",
+		"term": [
+			{
+				"start": "2000-07-10",
+				"end": "2002-07-10",
+				"type": "Opera",
+				"affiliation": "O'Reilly & Assoc./Songline Studios"
+			}
+		]
+	},
+
+	{
+		"name": "Paul Cotton",
+		"term": [
+			{
+				"start": "2000-07-10",
+				"end": "2002-07-10",
 				"type": "elected",
 				"affiliation": "Microsoft"
 			}
