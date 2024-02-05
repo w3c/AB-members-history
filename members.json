@@ -116,22 +116,5 @@
 				"affiliation": "Microsoft"
 			}
 		]
-	},
-
-/*
-	Ann Bassetti (The Boeing Company)
-Carl Cargill (Sun Microsystems)
-Renato Iannella (DSTC)
-Ora Lassila (Nokia)
-David Singer (IBM)
-
-				"resigned": true
-				"type": "staff-contact"
-				"chair": true
-				"original_end": "2006-01-31",
-				"end": "2004-07-11",
-				"note": "died"
-				"note": "Resigned when Domenic joined Google to resolve process constraint"
-				"type": "auto-elected"
-*/
+	}
 ]
