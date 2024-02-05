@@ -1,7 +1,8 @@
 let response = await fetch("members.json");
 let members = await response.json();
 let list = membersList;
-let maxYear = 1998;
+let firstYear = 1998;
+let maxYear = firstYear;
 let html = "";
 let dateFormat = new Intl.DateTimeFormat("en-US", {dateStyle: "medium"});
 
@@ -36,7 +37,7 @@ for (let member of members) {
 
 list.insertAdjacentHTML("beforeend", html);
 
-let years = maxYear - 2001 + 1;
+let years = maxYear - firstYear + 1;
 list.style.setProperty("--years", years);
 
 let theadRow = $$("thead tr", list)[0];
