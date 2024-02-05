@@ -1,16 +1,5 @@
 [
 	{
-		"name": "Chris Wilson",
-		"term": [
-			{
-				"start": "2001-12-11",
-				"type": "appointed"
-			}
-		]
-	},
-
-
-	{
 		"name": "Carl Cargill",
 		"term": [
 			{
@@ -117,5 +106,5 @@
 			}
 		]
 	}
-	
+
 ]
