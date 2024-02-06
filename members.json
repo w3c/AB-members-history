@@ -329,7 +329,7 @@
 			},
 			{
 				"start": "2011-07-01",
-				"end": "2013-06-30",
+				"end": "2013-09-16",
 				"type": "appointed",
 				"chair": true,
 				"affiliation": "Adobe Systems"
@@ -425,6 +425,17 @@
 				"end": "2014-06-30",
 				"type": "auto-elected",
 				"affiliation": "Hewlett-Packard"
+			}
+		]
+	},
+
+	{
+		"name": "Ian Jacobs",
+		"term": [
+			{
+				"start": "2002-07-01",
+				"end": "2005-06-30",
+				"type": "staff-contact"
 			}
 		]
 	},
@@ -588,6 +599,17 @@
 				"end": "2009-06-30",
 				"type": "elected",
 				"affiliation": "IBM"
+			}
+		]
+	},
+
+	{
+		"name": "Coralie Mercier",
+		"term": [
+			{
+				"start": "2005-07-01",
+				"end": "2017-06-30",
+				"type": "staff-contact"
 			}
 		]
 	},
@@ -836,6 +858,7 @@
 				"start": "2021-07-01",
 				"end": "2023-06-30",
 				"type": "elected",
+				"chair": true,
 				"affiliation": "Google"
 			},
 			{
@@ -846,6 +869,19 @@
 			}
 		]
 	},
+
+	{
+		"name": "Jeff Jaffe",
+		"term": [
+			{
+				"start": "2002-09-17",
+				"end": "2021-06-30",
+				"type": "staff-contact",
+				"chair": true,
+			}
+		]
+	},
+
 
 	{
 		"name": "Arthur Barstow",
@@ -1026,6 +1062,17 @@
 	},
 
 	{
+		"name": "Wendy Seltzer",
+		"term": [
+			{
+				"start": "2017-07-01",
+				"end": "2020-06-30",
+				"type": "staff-contact"
+			}
+		]
+	},
+
+	{
 		"name": "Natasha Rooney",
 		"term": [
 			{
@@ -1072,14 +1119,21 @@
 			},
 			{
 				"start": "2020-07-01",
-				"end": "2022-06-30",
+				"end": "2021-06-30",
 				"type": "elected",
+				"affiliation": "Wiley"
+			},
+			{
+				"start": "2021-07-01",
+				"end": "2022-06-30",
+				"chair": true,
 				"affiliation": "Wiley"
 			},
 			{
 				"start": "2022-07-01",
 				"end": "2024-06-30",
 				"type": "elected",
+				"chair": true,
 				"affiliation": "Wiley"
 			}
 		]
@@ -1155,6 +1209,17 @@
 	},
 
 	{
+		"name": "Ralph Swick",
+		"term": [
+			{
+				"start": "2020-07-01",
+				"end": "2022-12-31",
+				"type": "staff-contact"
+			}
+		]
+	},
+
+	{
 		"name": "Tatsuya Igarashi",
 		"term": [
 			{
@@ -1197,6 +1262,17 @@
 	},
 
 	{
+		"name": "Amy van der Hiel",
+		"term": [
+			{
+				"start": "2023-01-01",
+				"end": "present",
+				"type": "staff-contact"
+			}
+		]
+	},
+
+	{
 		"name": "Qing An",
 		"term": [
 			{
@@ -1215,6 +1291,7 @@
 				"start": "2023-07-01",
 				"end": "2025-06-30",
 				"type": "elected",
+				"chair": true,
 				"affiliation": "Rakuten Group, Inc."
 			}
 		]
