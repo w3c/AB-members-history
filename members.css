@@ -98,19 +98,61 @@
 	border-radius: 1px;
 }
 
-.term.appointed {
+.chair {
+	background: repeating-linear-gradient(
+	  45deg,
+	  #ffffff,
+	  #ffffff 10px,
+	  #7f7f7f 10px,
+	  #7f7f7f 20px
+	);
+}
+
+.appointed {
 	background-color: hsl(195 70% 60%);
 }
 
-.term.elected,
-.term.auto-elected {
+.appointed.chair {
+	background: repeating-linear-gradient(
+	  45deg,
+	  hsl(195 70% 60%),
+	  hsl(195 70% 60%) 10px,
+	  hsl(195 70% 10%) 10px,
+	  hsl(195 70% 10%) 20px
+	);
+}
+
+.elected,
+.auto-elected {
 	background-color: hsl(80 60% 45%);
 }
 
-.term.staff-contact {
+.elected.chair,
+.auto-elected.chair {
+	background: repeating-linear-gradient(
+	  45deg,
+	  hsl(80 60% 45%),
+	  hsl(80 60% 45%) 10px,
+	  hsl(80 60% 75%) 10px,
+	  hsl(80 60% 75%) 20px
+	);
+}
+
+.staff-contact {
 	background-color: hsl(350 40% 70%);
 }
 
-.term.resigned {
+.staff-contact.chair {
+	background: repeating-linear-gradient(
+	  45deg,
+	  hsl(350 40% 70%),
+	  hsl(350 40% 70%) 10px,
+	  hsl(350 40% 20%) 10px,
+	  hsl(350 40% 20%) 20px
+	);
+}
+
+.resigned {
 	border-right: 3px solid hsl(0 80% 45%);
 }
+
