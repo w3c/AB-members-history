@@ -85,6 +85,12 @@
 				"end": "2011-06-30",
 				"type": "elected",
 				"affiliation": "Nokia"
+			},
+			{
+				"start": "2011-07-01",
+				"end": "2013-06-30",
+				"type": "elected",
+				"affiliation": "Nokia"
 			}
 		]
 	},
@@ -219,6 +225,12 @@
 				"end": "2012-06-30",
 				"type": "auto-elected",
 				"affiliation": "The Boeing Company"
+			},
+			{
+				"start": "2012-07-01",
+				"end": "2014-06-30",
+				"type": "auto-elected",
+				"affiliation": "The Boeing Company"
 			}
 		]
 	},
@@ -314,6 +326,13 @@
 				"type": "appointed",
 				"chair": true,
 				"affiliation": "Adobe Systems"
+			},
+			{
+				"start": "2011-07-01",
+				"end": "2013-06-30",
+				"type": "appointed",
+				"chair": true,
+				"affiliation": "Adobe Systems"
 			}
 
 		]
@@ -400,6 +419,12 @@
 				"end": "2012-06-30",
 				"type": "auto-elected",
 				"affiliation": "Hewlett-Packard"
+			},
+			{
+				"start": "2012-07-01",
+				"end": "2014-06-30",
+				"type": "auto-elected",
+				"affiliation": "Hewlett-Packard"
 			}
 		]
 	},
@@ -442,6 +467,12 @@
 				"end": "2004-07-01",
 				"type": "elected",
 				"affiliation": "???"
+			},
+			{
+				"start": "2012-07-01",
+				"end": "2014-06-30",
+				"type": "auto-elected",
+				"affiliation": "IBM"
 			}
 		]
 	},
@@ -527,6 +558,12 @@
 				"end": "2010-06-30",
 				"type": "elected",
 				"affiliation": "Sun Microsystems"
+			},
+			{
+				"start": "2011-07-01",
+				"end": "2013-06-30",
+				"type": "elected",
+				"affiliation": "Oracle"
 			}
 		]
 	},
@@ -595,6 +632,18 @@
 				"end": "2011-06-30",
 				"type": "elected",
 				"affiliation": "Opera"
+			},
+			{
+				"start": "2011-07-01",
+				"end": "2013-06-30",
+				"type": "elected",
+				"affiliation": "Opera"
+			},
+			{
+				"start": "2013-07-01",
+				"end": "2015-06-30",
+				"type": "elected",
+				"affiliation": "Yandex"
 			}
 		]
 	},
@@ -605,6 +654,12 @@
 			{
 				"start": "2009-07-01",
 				"end": "2011-06-30",
+				"type": "elected",
+				"affiliation": "Keio University"
+			},
+			{
+				"start": "2011-07-01",
+				"end": "2013-06-30",
 				"type": "elected",
 				"affiliation": "Keio University"
 			}
@@ -618,6 +673,18 @@
 				"start": "2010-07-01",
 				"end": "2012-06-30",
 				"type": "auto-elected",
+				"affiliation": "Microsoft"
+			},
+			{
+				"start": "2012-07-01",
+				"end": "2013-06-30",
+				"type": "auto-elected",
+				"affiliation": "Microsoft"
+			},
+			{
+				"start": "2013-07-01",
+				"end": "2015-06-30",
+				"type": "elected",
 				"affiliation": "Microsoft"
 			}
 		]
@@ -633,7 +700,53 @@
 				"affiliation": "Hitachi"
 			}
 		]
+	},
+
+	{
+		"name": "Qiuling Pan",
+		"term": [
+			{
+				"start": "2012-07-01",
+				"end": "2014-06-30",
+				"type": "auto-elected",
+				"affiliation": "Huawei"
+			}
+		]
+	},
+
+	{
+		"name": "Jean-Charles Verdié",
+		"term": [
+			{
+				"start": "2012-07-01",
+				"end": "2014-06-30",
+				"type": "auto-elected",
+				"affiliation": "MStar Semiconductor"
+			}
+		]
+	},
+
+	{
+		"name": "Tantek Çelik",
+		"term": [
+			{
+				"start": "2013-07-01",
+				"end": "2015-06-30",
+				"type": "elected",
+				"affiliation": "Mozilla"
+			}
+		]
+	},
+
+	{
+		"name": "Chris Wilson",
+		"term": [
+			{
+				"start": "2013-07-01",
+				"end": "2015-06-30",
+				"type": "elected",
+				"affiliation": "Google"
+			}
+		]
 	}
 
-
-]
