@@ -103,8 +103,8 @@
 	  45deg,
 	  #9f9f9f,
 	  #9f9f9f 10px,
-	  #1f1f1f 10px,
-	  #1f1f1f 20px
+	  #7f7f7f 10px,
+	  #7f7f7f 20px
 	);
 }
 
@@ -117,8 +117,8 @@
 	  45deg,
 	  hsl(195 70% 60%),
 	  hsl(195 70% 60%) 10px,
-	  hsl(195 70% 10%) 10px,
-	  hsl(195 70% 10%) 20px
+	  hsl(195 70% 50%) 10px,
+	  hsl(195 70% 50%) 20px
 	);
 }
 
@@ -131,8 +131,8 @@
 .auto-elected.chair {
 	background: repeating-linear-gradient(
 	  45deg,
-	  hsl(80 60% 45%),
-	  hsl(80 60% 45%) 10px,
+	  hsl(80 60% 65%),
+	  hsl(80 60% 65%) 10px,
 	  hsl(80 60% 75%) 10px,
 	  hsl(80 60% 75%) 20px
 	);
@@ -147,8 +147,8 @@
 	  45deg,
 	  hsl(350 40% 70%),
 	  hsl(350 40% 70%) 10px,
-	  hsl(350 40% 20%) 10px,
-	  hsl(350 40% 20%) 20px
+	  hsl(350 40% 60%) 10px,
+	  hsl(350 40% 60%) 20px
 	);
 }
 
