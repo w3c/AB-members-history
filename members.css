@@ -101,10 +101,10 @@
 .chair {
 	background: repeating-linear-gradient(
 	  45deg,
-	  #ffffff,
-	  #ffffff 10px,
-	  #7f7f7f 10px,
-	  #7f7f7f 20px
+	  #9f9f9f,
+	  #9f9f9f 10px,
+	  #1f1f1f 10px,
+	  #1f1f1f 20px
 	);
 }
 
@@ -156,3 +156,9 @@
 	border-right: 3px solid hsl(0 80% 45%);
 }
 
+.legend {
+	font-size: 70%;
+	font-weight: bold;
+	color: white;
+
+}
