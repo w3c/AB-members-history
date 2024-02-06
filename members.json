@@ -662,6 +662,12 @@
 				"end": "2020-06-30",
 				"type": "elected",
 				"affiliation": "ConsenSys"
+			},
+			{
+				"start": "2023-01-17",
+				"end": "2023-06-30",
+				"type": "elected",
+				"affiliation": "ConsenSys"
 			}
 
 		]
@@ -777,6 +783,24 @@
 				"end": "2018-06-30",
 				"type": "elected",
 				"affiliation": "Mozilla"
+			},
+			{
+				"start": "2020-07-01",
+				"end": "2022-06-30",
+				"type": "elected",
+				"affiliation": "Mozilla"
+			},
+			{
+				"start": "2023-01-17",
+				"end": "2023-06-30",
+				"type": "elected",
+				"affiliation": "Mozilla"
+			},
+			{
+				"start": "2023-07-01",
+				"end": "2025-06-30",
+				"type": "elected",
+				"affiliation": "Mozilla"
 			}
 		]
 	},
@@ -805,6 +829,18 @@
 			{
 				"start": "2019-07-01",
 				"end": "2021-06-30",
+				"type": "elected",
+				"affiliation": "Google"
+			},
+			{
+				"start": "2021-07-01",
+				"end": "2023-06-30",
+				"type": "elected",
+				"affiliation": "Google"
+			},
+			{
+				"start": "2023-07-01",
+				"end": "2025-06-30",
 				"type": "elected",
 				"affiliation": "Google"
 			}
@@ -901,13 +937,28 @@
 				"end": "2020-06-30",
 				"type": "elected",
 				"affiliation": "Apple"
+			},
+			{
+				"start": "2020-07-01",
+				"end": "2022-06-30",
+				"type": "elected",
+				"affiliation": "Apple"
+			},
+			{
+				"start": "2022-07-01",
+				"end": "2023-12-31",
+				"resigned":true,
+				"note": "resigned to serve on Board of Directors",
+				"original_end": "2024-06-30",
+				"type": "elected",
+				"affiliation": "Apple"
 			}
 
 		]
 	},
 
 	{
-		"name": "Judy Zhu",
+		"name": "Hongru (Judy) Zhu",
 		"term": [
 			{
 				"start": "2015-07-01",
@@ -924,6 +975,15 @@
 			{
 				"start": "2019-07-01",
 				"end": "2021-06-30",
+				"type": "elected",
+				"affiliation": "Alibaba"
+			},
+			{
+				"start": "2021-07-01",
+				"end": "2023-12-31",
+				"resigned":true,
+				"note": "resigned to serve on Board of Directors",
+				"original_end": "2023-06-30",
 				"type": "elected",
 				"affiliation": "Alibaba"
 			}
@@ -952,6 +1012,15 @@
 				"end": "2021-06-30",
 				"type": "elected",
 				"affiliation": "TetraLogical"
+			},
+			{
+				"start": "2021-07-01",
+				"end": "2023-12-31",
+				"resigned":true,
+				"note": "resigned to serve on Board of Directors",
+				"original_end": "2023-06-30",
+				"type": "elected",
+				"affiliation": "TetraLogical"
 			}
 		]
 	},
@@ -976,6 +1045,18 @@
 				"end": "2020-06-30",
 				"type": "elected",
 				"affiliation": "W3C Invited Expert"
+			},
+			{
+				"start": "2020-07-01",
+				"end": "2022-06-30",
+				"type": "elected",
+				"affiliation": "W3C Invited Expert"
+			},
+			{
+				"start": "2022-07-01",
+				"end": "2024-06-30",
+				"type": "elected",
+				"affiliation": "W3C Invited Expert"
 			}
 		]
 	},
@@ -986,6 +1067,18 @@
 			{
 				"start": "2018-07-01",
 				"end": "2020-06-30",
+				"type": "elected",
+				"affiliation": "Wiley"
+			},
+			{
+				"start": "2020-07-01",
+				"end": "2022-06-30",
+				"type": "elected",
+				"affiliation": "Wiley"
+			},
+			{
+				"start": "2022-07-01",
+				"end": "2024-06-30",
 				"type": "elected",
 				"affiliation": "Wiley"
 			}
@@ -1000,6 +1093,18 @@
 				"end": "2021-06-30",
 				"type": "elected",
 				"affiliation": "W3C Invited Expert"
+			},
+			{
+				"start": "2023-01-17",
+				"end": "2023-06-30",
+				"type": "elected",
+				"affiliation": "W3C Invited Expert"
+			},
+			{
+				"start": "2023-07-01",
+				"end": "2025-06-30",
+				"type": "elected",
+				"affiliation": "Apple"
 			}
 		]
 	},
@@ -1010,6 +1115,18 @@
 			{
 				"start": "2019-07-01",
 				"end": "2021-06-30",
+				"type": "elected",
+				"affiliation": "DAISY Consortium"
+			},
+			{
+				"start": "2021-07-01",
+				"end": "2023-06-30",
+				"type": "elected",
+				"affiliation": "DAISY Consortium"
+			},
+			{
+				"start": "2023-07-01",
+				"end": "2025-06-30",
 				"type": "elected",
 				"affiliation": "DAISY Consortium"
 			}
@@ -1024,6 +1141,93 @@
 				"end": "2021-06-30",
 				"type": "elected",
 				"affiliation": "Intel"
+			},
+			{
+				"start": "2021-07-01",
+				"end": "2023-12-31",
+				"resigned":true,
+				"note": "resigned to serve on Board of Directors",
+				"original_end": "2023-06-30",
+				"type": "elected",
+				"affiliation": "Intel"
+			}
+		]
+	},
+
+	{
+		"name": "Tatsuya Igarashi",
+		"term": [
+			{
+				"start": "2020-07-01",
+				"end": "2022-06-30",
+				"type": "elected",
+				"affiliation": "Sony"
+			},
+			{
+				"start": "2022-07-01",
+				"end": "2024-06-30",
+				"type": "elected",
+				"affiliation": "Sony"
+			}
+		]
+	},
+
+	{
+		"name": "Heejin Chung",
+		"term": [
+			{
+				"start": "2021-07-01",
+				"end": "2023-06-30",
+				"type": "elected",
+				"affiliation": "Samsung Electronics"
+			}
+		]
+	},
+
+	{
+		"name": "Wei Ding",
+		"term": [
+			{
+				"start": "2022-07-01",
+				"end": "2024-06-30",
+				"type": "elected",
+				"affiliation": "Huawei"
+			}
+		]
+	},
+
+	{
+		"name": "Qing An",
+		"term": [
+			{
+				"start": "2023-01-17",
+				"end": "2024-06-30",
+				"type": "elected",
+				"affiliation": "Alibaba Group"
+			}
+		]
+	},
+
+	{
+		"name": "Wendy Reid",
+		"term": [
+			{
+				"start": "2023-07-01",
+				"end": "2025-06-30",
+				"type": "elected",
+				"affiliation": "Rakuten Group, Inc."
+			}
+		]
+	},
+
+	{
+		"name": "Song XU",
+		"term": [
+			{
+				"start": "2023-07-01",
+				"end": "2025-06-30",
+				"type": "elected",
+				"affiliation": "China Mobile"
 			}
 		]
 	}
