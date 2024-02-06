@@ -644,7 +644,26 @@
 				"end": "2015-06-30",
 				"type": "elected",
 				"affiliation": "Yandex"
+			},
+			{
+				"start": "2015-07-01",
+				"end": "2017-06-30",
+				"type": "elected",
+				"affiliation": "Yandex"
+			},
+			{
+				"start": "2017-07-01",
+				"end": "2019-06-30",
+				"type": "elected",
+				"affiliation": "Yandex"
+			},
+			{
+				"start": "2019-07-01",
+				"end": "2020-06-30",
+				"type": "elected",
+				"affiliation": "ConsenSys"
 			}
+
 		]
 	},
 
@@ -684,6 +703,18 @@
 			{
 				"start": "2013-07-01",
 				"end": "2015-06-30",
+				"type": "elected",
+				"affiliation": "Microsoft"
+			},
+			{
+				"start": "2015-07-01",
+				"end": "2017-06-30",
+				"type": "elected",
+				"affiliation": "Microsoft"
+			},
+			{
+				"start": "2017-07-01",
+				"end": "2019-06-30",
 				"type": "elected",
 				"affiliation": "Microsoft"
 			}
@@ -734,6 +765,18 @@
 				"end": "2015-06-30",
 				"type": "elected",
 				"affiliation": "Mozilla"
+			},
+			{
+				"start": "2015-07-01",
+				"end": "2016-06-30",
+				"type": "elected",
+				"affiliation": "Mozilla"
+			},
+			{
+				"start": "2016-07-01",
+				"end": "2018-06-30",
+				"type": "elected",
+				"affiliation": "Mozilla"
 			}
 		]
 	},
@@ -746,7 +789,243 @@
 				"end": "2015-06-30",
 				"type": "elected",
 				"affiliation": "Google"
+			},
+			{
+				"start": "2015-07-01",
+				"end": "2017-06-30",
+				"type": "elected",
+				"affiliation": "Google"
+			},
+			{
+				"start": "2017-10-16",
+				"end": "2018-06-30",
+				"type": "elected",
+				"affiliation": "Google"
+			},
+			{
+				"start": "2019-07-01",
+				"end": "2021-06-30",
+				"type": "elected",
+				"affiliation": "Google"
+			}
+		]
+	},
+
+	{
+		"name": "Arthur Barstow",
+		"term": [
+			{
+				"start": "2014-07-01",
+				"end": "2015-06-30",
+				"original_end": "2016-06-30",
+				"note":"what happened?",
+				"type": "elected",
+				"affiliation": "Nokia"
+			}
+		]
+	},
+
+	{
+		"name": "Virginie Galindo",
+		"term": [
+			{
+				"start": "2014-07-01",
+				"end": "2016-06-30",
+				"type": "elected",
+				"affiliation": "Gemalto"
+			},
+			{
+				"start": "2016-07-01",
+				"original_end": "2018-06-30",
+				"end": "2017-08-09",
+				"resigned": true,
+				"type": "elected",
+				"affiliation": "Gemalto"
+			}
+		]
+	},
+
+	{
+		"name": "Jay (Junichi) Kishigami",
+		"term": [
+			{
+				"start": "2014-07-01",
+				"end": "2016-06-30",
+				"type": "elected",
+				"affiliation": "NTT"
+			},
+			{
+				"start": "2016-07-01",
+				"end": "2018-06-30",
+				"type": "elected",
+				"affiliation": "NTT"
+			},
+			{
+				"start": "2018-07-01",
+				"end": "2020-06-30",
+				"type": "elected",
+				"affiliation": "NTT"
+			}
+		]
+	},
+
+	{
+		"name": "Soohong Daniel Park",
+		"term": [
+			{
+				"start": "2014-07-01",
+				"end": "2016-06-30",
+				"type": "elected",
+				"affiliation": "Samsung Electronics"
+			}
+		]
+	},
+
+	{
+		"name": "David Singer",
+		"term": [
+			{
+				"start": "2014-07-01",
+				"end": "2016-06-30",
+				"type": "elected",
+				"affiliation": "Apple"
+			},
+			{
+				"start": "2016-07-01",
+				"end": "2018-06-30",
+				"type": "elected",
+				"affiliation": "Apple"
+			},
+			{
+				"start": "2018-07-01",
+				"end": "2020-06-30",
+				"type": "elected",
+				"affiliation": "Apple"
+			}
+
+		]
+	},
+
+	{
+		"name": "Judy Zhu",
+		"term": [
+			{
+				"start": "2015-07-01",
+				"end": "2017-06-30",
+				"type": "elected",
+				"affiliation": "Alibaba"
+			},
+			{
+				"start": "2017-07-01",
+				"end": "2019-06-30",
+				"type": "elected",
+				"affiliation": "Alibaba"
+			},
+			{
+				"start": "2019-07-01",
+				"end": "2021-06-30",
+				"type": "elected",
+				"affiliation": "Alibaba"
+			}
+		]
+	},
+
+	{
+		"name": "Léonie Watson",
+		"term": [
+			{
+				"start": "2016-07-01",
+				"end": "2018-06-30",
+				"type": "elected",
+				"affiliation": "The Paciello Group"
+			},
+			{
+				"start": "2018-07-01",
+				"end": "2019-06-30",
+				"original_end": "2020-06-30",
+				"note":"affiliation changed",
+				"type": "elected",
+				"affiliation": "The Paciello Group"
+			},
+			{
+				"start": "2019-07-01",
+				"end": "2021-06-30",
+				"type": "elected",
+				"affiliation": "TetraLogical"
+			}
+		]
+	},
+
+	{
+		"name": "Natasha Rooney",
+		"term": [
+			{
+				"start": "2017-07-01",
+				"end": "2019-06-30",
+				"type": "elected",
+				"affiliation": "GSMA"
+			}
+		]
+	},
+
+	{
+		"name": "Florian Rivoal",
+		"term": [
+			{
+				"start": "2018-07-01",
+				"end": "2020-06-30",
+				"type": "elected",
+				"affiliation": "W3C Invited Expert"
+			}
+		]
+	},
+
+	{
+		"name": "Tzviya Siegman",
+		"term": [
+			{
+				"start": "2018-07-01",
+				"end": "2020-06-30",
+				"type": "elected",
+				"affiliation": "Wiley"
+			}
+		]
+	},
+
+	{
+		"name": "Elika Etemad",
+		"term": [
+			{
+				"start": "2019-07-01",
+				"end": "2021-06-30",
+				"type": "elected",
+				"affiliation": "W3C Invited Expert"
+			}
+		]
+	},
+
+	{
+		"name": "Avneesh Singh",
+		"term": [
+			{
+				"start": "2019-07-01",
+				"end": "2021-06-30",
+				"type": "elected",
+				"affiliation": "DAISY Consortium"
+			}
+		]
+	},
+
+	{
+		"name": "Eric Siow",
+		"term": [
+			{
+				"start": "2019-07-01",
+				"end": "2021-06-30",
+				"type": "elected",
+				"affiliation": "Intel"
 			}
 		]
 	}
 
+]
