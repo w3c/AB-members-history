@@ -16,8 +16,14 @@
 			},
 			{
 				"start": "2001-05-21",
-				"end": "2003-07-05",
+				"end": "2002-07-01",
 				"type": "auto-elected",
+				"affiliation": "Sun Microsystems"
+			},
+			{
+				"start": "2002-07-01",
+				"end": "2004-07-01",
+				"type": "elected",
 				"affiliation": "Sun Microsystems"
 			}
 		]
@@ -52,8 +58,14 @@
 			},
 			{
 				"start": "2001-05-21",
-				"end": "2003-07-05",
+				"end": "2003-07-01",
 				"type": "auto-elected",
+				"affiliation": "Nokia"
+			},
+			{
+				"start": "2003-07-01",
+				"end": "2005-07-01",
+				"type": "elected",
 				"affiliation": "Nokia"
 			}
 		]
@@ -109,6 +121,14 @@
 				"end": "2000-07-10",
 				"type": "elected",
 				"affiliation": "Xerox"
+			},
+			{
+				"start": "2000-07-10",
+				"end": "2001-07-10",
+				"original_end": "2002-07-10",
+				"note":"affiliation changed",
+				"type": "elected",
+				"affiliation": "Xerox"
 			}
 		]
 	},
@@ -148,8 +168,20 @@
 			},
 			{
 				"start": "2001-05-21",
-				"end": "2003-07-05",
+				"end": "2003-07-01",
 				"type": "auto-elected",
+				"affiliation": "The Boeing Company"
+			},
+			{
+				"start": "2003-07-01",
+				"end": "2004-07-01",
+				"type": "elected",
+				"affiliation": "The Boeing Company"
+			},
+			{
+				"start": "2004-07-01",
+				"end": "2006-07-01",
+				"type": "elected",
 				"affiliation": "The Boeing Company"
 			}
 		]
@@ -160,9 +192,25 @@
 		"term": [
 			{
 				"start": "1999-07-05",
-				"end": "2001-07-05",
+				"end": "2000-07-10",
+				"original_end": "2001-07-10",
+				"note": "affiliation changed",
 				"type": "elected",
 				"affiliation": "DSTC"
+			},
+			{
+				"start": "2000-07-10",
+				"end": "2002-07-10",
+				"type": "elected",
+				"affiliation": "IPR Systems"
+			},
+			{
+				"start": "2002-07-01",
+				"end": "2003-05-12",
+				"original_end": "2004-07-01",
+				"type": "elected",
+				"resigned": true,
+				"affiliation": "IPR Systems"
 			}
 		]
 	},
@@ -173,8 +221,8 @@
 			{
 				"start": "2000-07-10",
 				"end": "2002-07-10",
-				"type": "Opera",
-				"affiliation": "O'Reilly & Assoc./Songline Studios"
+				"type": "elected",
+				"affiliation": "Opera"
 			}
 		]
 	},
@@ -184,9 +232,24 @@
 		"term": [
 			{
 				"start": "2000-07-10",
-				"end": "2002-07-10",
+				"end":"2001-12-11",
+				"original_end": "2002-07-10",
+				"resigned": true,
+				"note": "resigned due to election to the TAG",
 				"type": "elected",
 				"affiliation": "Microsoft"
+			}
+		]
+	},
+
+	{
+		"name": "Steve Zilles",
+		"term": [
+			{
+				"start": "2000-07-10",
+				"end": "2002-07-10",
+				"type": "elected",
+				"affiliation": "Adobe Systems"
 			}
 		]
 	},
@@ -208,11 +271,134 @@
 		"term": [
 			{
 				"start": "2001-05-21",
-				"end": "2003-07-05",
+				"end": "2003-07-01",
 				"type": "auto-elected",
 				"affiliation": "SAIC - Telcordia Technologies"
+			},
+			{
+				"start": "2003-07-01",
+				"end": "2005-07-01",
+				"type": "elected",
+				"affiliation": "MITRE"
+			}
+		]
+	},
+
+	{
+		"name": "Jim Bell",
+		"term": [
+			{
+				"start": "2002-02-21",
+				"end": "2002-07-01",
+				"type": "elected",
+				"note":"special election",
+				"affiliation": "Hewlett-Packard"
+			},
+			{
+				"start": "2002-07-01",
+				"end": "2004-07-01",
+				"type": "elected",
+				"affiliation": "Hewlett-Packard"
+			},
+			{
+				"start": "2004-07-01",
+				"end": "2006-07-01",
+				"type": "elected",
+				"affiliation": "Hewlett-Packard"
+			}
+		]
+	},
+
+	{
+		"name": "Don Deutsch",
+		"term": [
+			{
+				"start": "2002-07-01",
+				"end": "2004-07-01",
+				"type": "elected",
+				"affiliation": "???"
+			}
+		]
+	},
+
+	{
+		"name": "Steve Holbrook",
+		"term": [
+			{
+				"start": "2002-07-01",
+				"end": "2004-07-01",
+				"type": "elected",
+				"affiliation": "???"
+			}
+		]
+	},
+
+	{
+		"name": "Lauren Wood",
+		"term": [
+			{
+				"start": "2002-07-01",
+				"end": "2003-07-01",
+				"type": "elected",
+				"affiliation": "Unaffiliated"
+			},
+			{
+				"start": "2003-07-01",
+				"end": "2005-07-01",
+				"type": "elected",
+				"affiliation": "Unaffiliated"
+			}
+
+		]
+	},
+
+	{
+		"name": "Klaus Birkenbihl",
+		"term": [
+			{
+				"start": "2003-07-01",
+				"end": "2005-07-01",
+				"type": "elected",
+				"affiliation": "Fraunhofer Gesellschaft"
+			}
+		]
+	},
+
+	{
+		"name": "Jean-François Abramatic",
+		"term": [
+			{
+				"start": "2004-07-01",
+				"end": "2006-07-01",
+				"type": "elected",
+				"affiliation": "ILOG"
+			}
+		]
+	},
+
+	{
+		"name": "Eduardo Gutentag",
+		"term": [
+			{
+				"start": "2004-07-01",
+				"end": "2006-07-01",
+				"type": "elected",
+				"affiliation": "Sun Microsystems"
+			}
+		]
+	},
+
+	{
+		"name": "Steve Holbrook",
+		"term": [
+			{
+				"start": "2004-07-01",
+				"end": "2006-07-01",
+				"type": "elected",
+				"affiliation": "IBM"
 			}
 		]
 	}
+
 
 ]
