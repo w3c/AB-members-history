@@ -1104,6 +1104,12 @@
 				"end": "2024-06-30",
 				"type": "elected",
 				"affiliation": "W3C Invited Expert"
+			},
+			{
+				"start": "2024-07-01",
+				"end": "2026-06-30",
+				"type": "elected",
+				"affiliation": "W3C Invited Expert"
 			}
 		]
 	},
@@ -1234,6 +1240,12 @@
 				"end": "2024-06-30",
 				"type": "elected",
 				"affiliation": "Sony"
+			},
+			{
+				"start": "2024-07-01",
+				"end": "2026-06-30",
+				"type": "elected",
+				"affiliation": "Sony"
 			}
 		]
 	},
@@ -1256,6 +1268,12 @@
 			{
 				"start": "2022-07-01",
 				"end": "2024-06-30",
+				"type": "elected",
+				"affiliation": "Huawei"
+			},
+			{
+				"start": "2024-07-01",
+				"end": "2026-06-30",
 				"type": "elected",
 				"affiliation": "Huawei"
 			}
@@ -1307,6 +1325,31 @@
 				"affiliation": "China Mobile"
 			}
 		]
+	},
+
+	{
+		"name": "Elena Lape",
+		"term": [
+			{
+				"start": "2024-07-01",
+				"end": "2026-06-30",
+				"type": "elected",
+				"affiliation": "Holopin"
+			}
+		]
+	},
+
+	{
+		"name": "Max Gendler",
+		"term": [
+			{
+				"start": "2024-07-01",
+				"end": "2026-06-30",
+				"type": "elected",
+				"affiliation": "The News Corporation"
+			}
+		]
 	}
+
 
 ]
