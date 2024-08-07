@@ -866,8 +866,14 @@
 				"end": "2025-06-30",
 				"type": "elected",
 				"affiliation": "Google"
-			}
-		]
+			},
+			{
+				"start": "2024-07-01",
+				"end": "2025-06-30",
+				"chair": true,
+				"type": "elected",
+				"affiliation": "Google"
+			}		]
 	},
 
 	{
