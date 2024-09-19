@@ -6,7 +6,7 @@ title: AB members over time
 This is a timeline of all W3C Advisory Board members and their terms.
 The data was pieced together from various [references](#references),
 which are listed below, but may still contain inaccuracies.
-Found a mistake? [Correct it with a pull request!](https://github.com/cwilso/AB-history)
+Found a mistake? [Correct it with a pull request!](https://github.com/w3c/AB-members-history)
 
 <table id="membersList">
 	<thead class="years">
