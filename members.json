@@ -1370,6 +1370,16 @@
 				"affiliation": "The News Corporation"
 			}
 		]
+	},
+	{
+		"name": "Anqi Li",
+		"term": [
+			{
+				"start": "2024-12-05",
+				"chair": "true",
+				"type": "staff-contact"
+			}
+		]
 	}
 
 
