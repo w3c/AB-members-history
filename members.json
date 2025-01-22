@@ -1125,7 +1125,10 @@
 			},
 			{
 				"start": "2024-07-01",
-				"end": "2026-06-30",
+				"end": "2025-01-20",
+				"original_end": "2026-06-30",
+				"resigned":true,
+				"note": "resigned to serve on Board of Directors",
 				"type": "elected",
 				"affiliation": "W3C Invited Expert"
 			}
