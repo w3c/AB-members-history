@@ -1125,7 +1125,10 @@
 			},
 			{
 				"start": "2024-07-01",
-				"end": "2026-06-30",
+				"end": "2025-01-20",
+				"resigned":true,
+				"note": "resigned to serve on Board of Directors",
+				"original_end": "2026-06-30",
 				"type": "elected",
 				"affiliation": "W3C Invited Expert"
 			}
@@ -1224,7 +1227,7 @@
 			{
 				"start": "2021-07-01",
 				"end": "2023-12-31",
-				"resigned":true,
+				"resigned": true,
 				"note": "resigned to serve on Board of Directors",
 				"original_end": "2023-06-30",
 				"type": "elected",
@@ -1367,7 +1370,18 @@
 				"affiliation": "The News Corporation"
 			}
 		]
+	},
+	{
+		"name": "An Qi Li",
+		"term": [
+			{
+				"start": "2024-12-19",
+				"end": "2025-06-30",
+				"type": "appointed",
+				"chair": true,
+				"affiliation": "W3C"
+			}
+		]
 	}
-
 
 ]
