@@ -20,11 +20,13 @@ Found a mistake? [Correct it with a pull request!](https://github.com/w3c/AB-mem
 
 ### AB Election Results
 
-- [results](https://lists.w3.org/Archives/Public/www-ac-forum)
+- [results](https://www.w3.org/Search/Mail/Member/search?lists=w3c-ac-members&resultsperpage=20&sortby=date&subject=Advisory%20Board%20Election%20Results&page=2)
 <p>Election results:
-					<a href="https://lists.w3.org/Archives/Member/w3c-ac-members/2023AprJun/0044.html">2023, </a>
+	          <a href="https://lists.w3.org/Archives/Member/w3c-ac-members/2025AprJun/0052.html">2025</a>,
+	          <a href="https://lists.w3.org/Archives/Member/w3c-ac-members/2024AprJun/0034.html">2024</a>, 
+		  <a href="https://lists.w3.org/Archives/Member/w3c-ac-members/2023AprJun/0044.html">2023</a>, 
                   <a href="https://lists.w3.org/Archives/Member/w3c-ac-members/2022AprJun/0044.html">2022</a>,
-		              <a href="https://lists.w3.org/Archives/Member/w3c-ac-members/2021AprJun/0050.html">2021</a>,
+		  <a href="https://lists.w3.org/Archives/Member/w3c-ac-members/2021AprJun/0050.html">2021</a>,
                   <a href="https://lists.w3.org/Archives/Member/w3c-ac-members/2020AprJun/0044.html">2020</a>,
                   <a href="https://lists.w3.org/Archives/Member/w3c-ac-members/2019AprJun/0042.html">2019</a>,
                   <a href="https://lists.w3.org/Archives/Member/w3c-ac-members/2018AprJun/0044.html">2018</a>,
@@ -53,7 +55,7 @@ Found a mistake? [Correct it with a pull request!](https://github.com/w3c/AB-mem
 
 ### Other
 
-We thank the following individuals (listed alphabetically by family name) for their past participation on the AB: Jean-François Abramatic (2004-2012), Art Barstow (2014-2015), Ann Bassetti (1999-2014), Jim Bell (2002-2014), Klaus Birkenbihl (2003-2005), Tantek Çelik (2013-2018, 2020-2022), Carl Cargill (1998-2004), Michael Champion (2010-2019), Heejin Chung (2021-2023), Paul Cotton (2000-2002), Don Deutsch (2002-2004,2005-2011), Dale Dougherty (1998-1999), Elika J Etemad (2019-2021), David Fallside (2001-2002), Bob Freund (2010-2013), Virginie Galindo (2014-2018), Paul Grosso (1998-2000), Eduardo Gutentag (2004-2010, 2011-2013), Steve Holbrook (2002-2009,2012-2014), Renato Iannella (1999-2003), Jay (Junichi) Kishigami (2014-2020), Ken Laskey (2001-2009), Ora Lassila (1998-2013), Håkon Lie (2000-2002), Larry Masinter (1998-2001), Bede McCall (1998-2000), Takeshi Natsuno (2009-2013), Charles Nevile (2009-2020, January-June 2023), Qiuling Pan (2012-2014), Soohong Daniel Park (2014-2016), Arun Ranganathan (2007-2010), Thomas Reardon (1998-2000), Claus von Riegen (2005-2007), Natasha Rooney (2017-2019), David Singer (IBM) (1998-2001), David Singer (Apple) (2014-2022), Eric Siow (Intel) (2019-2022), Jeffrey Ullman (1998-1999), Jean-Charles Verdié (2013-2014), Léonie Watson (TetraLogical) (2016-2022), Chris Wilson (2013-2017), Lauren Wood (2002-2005), Hongru (Judy) Zhu (Alibaba) (2015-2022), Steve Zilles (2000-2001 and interim Chair November 2001 to September 2013).
+We thank the following individuals (listed alphabetically by family name) for their past participation on the AB: Jean-François Abramatic (2004-2012), Qing An (2023-2024), Art Barstow (2014-2015), Ann Bassetti (1999-2014), Jim Bell (2002-2014), Klaus Birkenbihl (2003-2005), Tantek Çelik (2013-2018, 2020-2022, January-June 2023, July 2023-2025), Carl Cargill (1998-2004), Michael Champion (2010-2019), Heejin Chung (2021-2023), Paul Cotton (2000-2002), Don Deutsch (2002-2004,2005-2011), Dale Dougherty (1998-1999), Elika J Etemad (2019-2021, January-June 2023, July 2023-2025), David Fallside (2001-2002), Bob Freund (2010-2013), Virginie Galindo (2014-2018), Paul Grosso (1998-2000), Eduardo Gutentag (2004-2010, 2011-2013), Steve Holbrook (2002-2009,2012-2014), Renato Iannella (1999-2003), Jay (Junichi) Kishigami (2014-2020), Ken Laskey (2001-2009), Ora Lassila (1998-2013), Håkon Lie (2000-2002), Larry Masinter (1998-2001), Bede McCall (1998-2000), Takeshi Natsuno (2009-2013), Charles Nevile (2009-2020, January-June 2023), Qiuling Pan (2012-2014), Soohong Daniel Park (2014-2016), Arun Ranganathan (2007-2010), Wendy Reid (2023-2025), Thomas Reardon (1998-2000), Claus von Riegen (2005-2007), Florian Rivoal (2018-2025 January), Natasha Rooney (2017-2019), Tzviya Siegman (2018-2024), David Singer (IBM) (1998-2001), David W. Singer (Apple) (2014-2022), Eric Siow (2019-2022), Jeffrey Ullman (1998-1999), Jean-Charles Verdié (2013-2014), Léonie Watson (2016-2022), Chris Wilson (2013-2017, 2019-2025), Lauren Wood (2002-2005), Hongru (Judy) Zhu (2015-2022), Steve Zilles (2000-2001 and interim Chair November 2001 to September 2013).
 
 We also thank W3C Team members who have supported the Advisory Board: Ian Jacobs (2002-2005), Jeff Jaffe (Chair September 2013 to June 2021), Coralie Mercier (2005-2017), Wendy Seltzer (2017-2020), Ralph Swick (2020-2023) and Amy van der Hiel.
 
