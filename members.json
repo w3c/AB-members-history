@@ -1402,6 +1402,7 @@
 				"start": "2025-07-01",
 				"end": "2026-06-30",
 				"type": "elected",
+				"chair": true,
 				"affiliation": "Samsung Electronics Co., Ltd."
 			}
 		]
