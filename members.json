@@ -302,7 +302,7 @@
 			{
 				"start": "2001-11-09",
 				"end": "2002-06-30",
-				"chair": "true",
+				"chair": true,
 				"affiliation": "Adobe Systems"
 			},
 			{
@@ -531,7 +531,7 @@
 			{
 				"start": "1998-02-26",
 				"end": "2001-11-09",
-				"chair": "true",
+				"chair": true,
 				"type": "staff-contact"
 			},
 			{
@@ -1389,7 +1389,7 @@
 		"term": [
 			{
 				"start": "2024-12-05",
-				"chair": "true",
+				"chair": true,
 				"type": "staff-contact"
 			}
 		]
